@@ -1,4 +1,3 @@
-#Milo Bastyr
 #11/20/2024
 #Pokemon Evolution Game
 
