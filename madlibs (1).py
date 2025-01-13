@@ -1,4 +1,3 @@
-#Milo Bastyr
 
 #Initialize
 print("Welcome to Mad Libs!")
