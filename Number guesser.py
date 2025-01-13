@@ -6,9 +6,9 @@ import random
 y=random.randint(0,10)
 
 def num_guesser():
-    x=int(input("Pick a number one through 10"))
+    x=int(input("Pick a number one through 10")) #Asks for input 
     if x==y:
-        print("you are correct play again?")
+        print("you are correct play again?") #
     elif (x!=y):
         print("you are not correct try again")
     print(y)
