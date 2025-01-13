@@ -1,4 +1,3 @@
-#Milo Bastyr
 #1/9/2025
 #Init
 import random
