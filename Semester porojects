@@ -2,3 +2,15 @@
 THis project finds you the right dog for you based on size. THis project also finds you the dog based on how they act.
 
 #slot machine
+This is a simple slot machine game written in Python. 
+It randomly selects five symbols and checks for winning combinations like a "Jackpot" (all 7s), identical symbols, 
+or partial matches, awarding points accordingly. 
+The player starts with 100 credits and continues betting until they run out or choose to stop.
+
+
+
+
+
+
+
+
