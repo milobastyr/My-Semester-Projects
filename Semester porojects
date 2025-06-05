@@ -1,5 +1,15 @@
 #Dog breeds
-THis project finds you the right dog for you based on size. THis project also finds you the dog based on how they act.
+This Python program helps users find dog breeds based on their preferred size (tiny, small, medium, or large). 
+It uses predefined lists of dog breeds and their average weights to filter and recommend appropriate breeds. 
+However, there are some logic and formatting issues—like a bug in the "medium" condition and inconsistent capitalization—that could affect its accuracy.
+
+
+
+
+
+
+
+
 
 #slot machine
 This is a simple slot machine game written in Python. 
